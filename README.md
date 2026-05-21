@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Mathews Paul
-- 👀 I’m interested in Data Science, Machine Learning and Cyber Security
-- 🌱 I’m currently working to create a respository with all my previous and current projects
-- 💞️ I’m looking for any work experience oppertunities to apply my skills and improve
+- 👀 I’m interested in Data, Machine Learning and Cyber Security
+- 🌱 Currently working as a Data Analyst/Engineer 
 - 📫 You can reach me at mathewspaulp@gmail.com
 
 <!---
